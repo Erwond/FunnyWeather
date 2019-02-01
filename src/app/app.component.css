@@ -1,0 +1,47 @@
+.card {
+    margin: 2% auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+    margin: 2%;
+    color: white;
+    font-family: weather;
+    font-size: 100px;
+}
+
+.form-class{
+    margin: 0 auto;
+    width: 30%;
+    border: 1px solid #DDD;
+    border-radius: 10px;
+    background-color: white;
+}
+
+input{
+    border: none;
+    width: 90%;
+    display: inline-block;
+    margin-right: 5%;
+}
+
+.tooltip-icon{
+    width: 5%;
+    display: inline-block;
+}
+
+small{
+    color: white;
+}
+
+#wrapper{
+    background-color: #559CAD;
+}
+
+img{
+    margin: auto;
+    display: block;
+    width: 30%;
+}
