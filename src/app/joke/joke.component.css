@@ -1,0 +1,9 @@
+.joke{
+    margin: 30px auto 0;
+    display: block;
+}
+
+.spinner-custom{
+    width: 5rem;
+    height: 5rem;
+}
